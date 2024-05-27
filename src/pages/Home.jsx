@@ -13,7 +13,7 @@ function Home() {
         if (error === false) {
           setError(true);
         } else {
-          navigate('/about');
+          navigate('/content');
         }
       };
 
