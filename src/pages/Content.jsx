@@ -136,9 +136,7 @@ function Content() {
                         </div>
                     </div>
 
-                    <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
-                        &mdash; Michael Scott
-                    </footer>
+                    
                     </blockquote>
                 </div>
 
@@ -170,9 +168,7 @@ function Content() {
                         </div>
                     </div>
 
-                    <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
-                        &mdash; Michael Scott
-                    </footer>
+                    
                     </blockquote>
                 </div>
 
@@ -204,9 +200,7 @@ function Content() {
                         </div>
                     </div>
 
-                    <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
-                        &mdash; Michael Scott
-                    </footer>
+                    
                     </blockquote>
                 </div>
 
