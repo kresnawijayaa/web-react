@@ -5,6 +5,7 @@ import Content from './pages/Content';
 import Contact from './pages/Contact';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import './index.css';
 
 function App() {
   return (
