@@ -1,6 +1,15 @@
 {
-    "rewrites": [
-      { "source": "/", "destination": "/index.html" }
+    "redirects": [
+      {
+        "source": "http://www.kresnawijaya.tech",
+        "destination": "https://www.kresnawijaya.tech",
+        "permanent": true
+      },
+      {
+        "source": "http://kresnawijaya.tech",
+        "destination": "https://www.kresnawijaya.tech",
+        "permanent": true
+      }
     ]
   }
   
